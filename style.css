@@ -1,0 +1,13 @@
+body{
+    background-image: url("gaku.jpg");
+    background-size: cover;
+}
+
+.Gaku {
+    color: black;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+}
+
